@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>LittleMinds mark</title>
+  <rect width="64" height="64" rx="18" fill="#173E35"/>
+  <path d="M32 14c-8.3 0-15 6.2-15 14 0 5.2 2.7 9.2 6.6 11.7 1.8 1.2 2.8 2.8 3 5.3h10.8c.2-2.5 1.2-4.1 3-5.3C44.3 37.2 47 33.2 47 28c0-7.8-6.7-14-15-14Z" fill="#FFD66B"/>
+  <path d="M27 50h10M28.5 55h7" stroke="#FFD66B" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="13" cy="16" r="3" fill="#E9C5F3"/>
+  <circle cx="52" cy="13" r="2.5" fill="#B9E8CD"/>
+</svg>
